@@ -16,7 +16,7 @@ Betterment is a new robo adviser that automatically manages individuals' portfol
 
 
 #### How does Betterment use Technology?
-
+Sophisticate algorithms help them manage portfolios and maximize profits while minimizing risk.
 
 #### What sets Betterment apart in FinTech?
 
