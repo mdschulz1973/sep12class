@@ -12,6 +12,7 @@
 ### Betterment Case Study Content
 
 #### Who is Betterment?
+Betterment is a new robo adviser that automatically manages individuals' portfolios.  They use specific algorithms to tailor portofolios to an individuals risk tolerance.  Their main competitors are Vanguard, Robinhood, and SoFi.
 
 
 #### How does Betterment use Technology?
